@@ -1,117 +1,112 @@
----
-layout: default
-title: Jamil Ahmed - Portfolio
----
-
-<!-- GIF AT THE TOP -->
+<!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="400" height="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3NDNhZ3VrbG9mYmxrZnpqZ2pjeHF6d2ZwZWZtdWkxOGJpdGJlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Dynamic GIF" width="600" height="400">
 </p>
 
-# Hi, I'm Jamil Ahmed 👋  
-Innovative and detail-oriented software engineer specializing in backend systems and AI-powered solutions.  
-Skilled in leveraging Python, Django, and cloud technologies to build scalable applications.  
+---
+<!-- HEADER SECTION -->
+<!-- HEADER SECTION -->
+<div style="display: flex; align-items: center;">
+  <img src="https://drive.google.com/uc?export=view&id=11Xp6CxLbLJ3bvCQVonuJ7qdmSSVcNqvT" alt="Jamil Ahmed" width="200" height="250" style="border-radius: 50%; margin-right: 20px;">
+  <h1>Hi, I’m Jamil Ahmed 👋</h1>
+</div>
 
-- 🔭 Currently exploring LLM-driven solutions with Azure OpenAI and FastAPI.  
-- 🌱 Passionate about solving real-world problems and building impactful solutions.  
-- 🚀 Competitive programming enthusiast with a problem-solving mindset.  
 
-[LinkedIn](https://www.linkedin.com/in/jamilahmed01/) | [GitHub](https://github.com/JamilAhmed00) | [CodeForces](https://codeforces.com/profile/Jamil-Ahmed)  
-<hr>
 
-## 💻 Projects  
+<h3 align="center">🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
 
-### HandiCraft (From Rural Hands to Global Hearts)  
-- Built a D2C platform using **FastAPI** and **PostgreSQL**.  
-- Integrated AI-powered search and secure payment via **SSLCommerz**.  
-- Real-time notifications using **SSL Wireless** for SMS and email.  
-[Live Link](http://handi-craft.xyz) | [GitHub](https://github.com/JamilAhmed00/HandiCraft)  
+---
 
-### HydroScholars (Educational Platform)  
-- Interactive platform to educate students on global water issues.  
-- Utilized NASA EONET API for real-time data visualization.  
-- Quizzes and games to promote critical thinking in water management.  
-[Live Link](https://hydroscholersbd00.netlify.app/) | [GitHub](https://github.com/JamilAhmed00/HydroScholers)  
+### 🌟 **About Me**
+- 🔭 Currently working on building robust backend systems using Python and FastAPI.  
+- 🌱 Exploring **LLM-driven solutions** with Azure OpenAI.  
+- 💻 Passionate about solving real-world problems with clean, maintainable code.  
+- 🌐 Active in competitive programming and AI-based development.  
+- 📫 Reach me at: **jamilahmed.dev@gmail.com**  
 
-### Automated Sports Data Scraper  
-- Python-based tool to scrape football match data.  
-- Modular and scalable architecture with PostgreSQL storage.  
-[GitHub](https://github.com/JamilAhmed00/Web_Scrap_Field_World_Final_Project)  
-<hr>
+---
 
-## 💼 Professional Experience  
+### 💻 **Projects**
+| Project                         | Description                                                                                         | Technologies                                 | Links |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | ----- |
+| **HandiCraft**                  | D2C platform connecting artisans with customers. AI-enhanced search and secure payment integration.   | FastAPI, PostgreSQL, SSLCommerz                | [GitHub](https://github.com/JamilAhmed00/HandiCraft) |
+| **HydroScholars**               | Educational platform visualizing water issues with NASA EONET API and interactive learning modules.   | HTML, CSS, JavaScript, NASA EONET API          | [GitHub](https://github.com/JamilAhmed00/HydroScholers) |
+| **Automated Sports Data Scraper**| Python-based scraper for football data with structured storage in PostgreSQL.                        | Python, BeautifulSoup, PostgreSQL              | [GitHub](https://github.com/JamilAhmed00/Web_Scrap_Field_World_Final_Project) |
+| **HPE-HRNet**                   | Multi-person pose estimation using HRNet architecture.                                               | Python, HRNet, OmniPose                       | [GitHub](https://github.com/JamilAhmed00/HPE-HRNet) |
 
-### Software Engineer - Backend Development  
-- Specialized in building scalable backend systems with Python and FastAPI.  
-- Hands-on experience in cloud integration with Azure OpenAI and MinIO.  
-- Automated testing and CI/CD using **pytest**, **SonarQube**, and **GitHub Actions**.  
+---
 
-## 🏆 Certifications & Achievements  
+### 🏆 **Achievements & Certifications**
+| Achievement/Certification                    | Details                                              | Links |
+| --------------------------------------------- | ---------------------------------------------------- | ----- |
+| 🌍 **NASA Space Apps Challenge 2024**          | National Champion, Global Nominee                     | [Certificate](https://drive.google.com/file/d/1tk6vuUjEhNkBsiYMF0BrkzaW-44yJBOp/view) |
+| 💡 **Generative AI for Educators - Google**     | Certified in applying AI in educational contexts       | [Certificate](https://skillshop.exceedlms.com/student/award/oLFsgqBxh4EbjM1n1CtMuy63) |
+| 🏅 **Microsoft Imagine Cup 2025**               | MVP Submission Round                                  | [Certificate](https://drive.google.com/file/d/170acx6TKK-Ara6ewaJgwTKYSGLekij1k/view) |
+| 🏆 **BYLC CareerX29 Program Graduate**          | Completed leadership training program                  | [Certificate](https://drive.google.com/file/d/1MG-KfqfPj2nhgX2rgwrgXPVeq-r8EyWr/view) |
 
-- National Champion, NASA Space Apps Challenge 2024  
-- Generative AI for Educators - Google  
-- BYLC CareerX29 Program Graduate  
-- Microsoft Imagine Cup 2025 - MVP Submission Round  
-<hr>
+---
 
-## 🔧 Skills & Technologies  
-
-### Programming Languages  
-- Python, C++  
-
-### Web Development  
-- Django, FastAPI  
-
-### AI & Machine Learning  
-- Azure OpenAI, Prompt Engineering, LLM  
-
-### Cloud & Storage  
-- MinIO, AWS S3  
-
-### Database Systems  
-- PostgreSQL, MySQL, SQLite  
-
-### Performance & Testing  
-- Locust.io, Sentry, pytest  
-
-### CI/CD & Automation  
-- GitHub Actions, Docker, SonarQube  
-
-### Version Control  
-- Git, GitHub  
-<hr>
-
-## 📚 Education  
-
-**Bachelor of Science in Computer Science and Engineering (CSE)**  
-International Islamic University Chittagong (IIUC), Bangladesh  
-Graduated: 2024  
-<hr>
-
-## 🌟 Connect with Me  
-
+### 🧠 **Problem Solving Profiles**
 <p align="center">
-  <a href="https://linkedin.com/in/jamilahmed01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamilahmed01" height="30" width="40"></a>
-  <a href="https://github.com/JamilAhmed00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamilahmed00" height="30" width="40"></a>
-  <a href="https://codeforces.com/profile/Jamil-Ahmed" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3521352-2944795.png" alt="codeforces" height="30" width="40"></a>
-  <a href="mailto:jamilahmediiuc@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40"></a>
-</p>  
+  <a href="https://codeforces.com/profile/Jamil-Ahmed" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Codeforces_logo.svg" alt="CodeForces" height="50">
+  </a>
+  <a href="https://leetcode.com/jamilahmediiuc/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="50">
+  </a>
+  <a href="https://vjudge.net/user/JamilAhmed" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/26116340?s=280&v=4" alt="VJudge" height="50">
+  </a>
+</p>
 
-## 📊 GitHub Stats  
-<hr>
-<h3 align="center">Stats:</h3>
+---
+
+### 🔧 **Skills & Technologies**
+#### **Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### **Web Development:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### **AI & ML:**  
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+#### **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **CI/CD & Version Control:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true" alt="JamilAhmed00" />
+    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en" alt="JamilAhmed00" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact" alt="JamilAhmed00" />
     </a>
 </p>
 
+---
 
-<hr>
-<hr>
-<footer>
-    <p align="center">&copy; 2025 Jamil Ahmed. All rights reserved.</p>
-</footer>
+### 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/jamilahmed01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/JamilAhmed00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:jamilahmediiuc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">© 2025 Jamil Ahmed. All rights reserved.</p>
