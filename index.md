@@ -98,15 +98,19 @@ Graduated: 2024
 </p>  
 
 ## 📊 GitHub Stats  
+<hr>
+<h3 align="center">Stats:</h3>
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en" alt="JamilAhmed00" />
+    <a href="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&hide_rank=true" alt="JamilAhmed00" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamilAhmed00&show_icons=true&theme=dark&locale=en&layout=compact" alt="JamilAhmed00" />
     </a>
-</p>  
+</p>
 
+
+<hr>
 <hr>
 <footer>
     <p align="center">&copy; 2025 Jamil Ahmed. All rights reserved.</p>
