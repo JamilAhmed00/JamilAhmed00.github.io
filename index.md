@@ -1,12 +1,13 @@
-<!-- NAVBAR SECTION -->
-<nav style="display: flex; justify-content: center; background-color: #f4f4f4; padding: 15px; position: sticky; top: 0; z-index: 1000;">
-  <a href="#about" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">About</a>
-  <a href="#projects" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Projects</a>
-  <a href="#research-experience" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Research Experience</a>
-  <a href="#achievements" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Achievements</a>
-  <a href="#problem-solving" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Problem Solving</a>
-  <a href="#skills" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Skills</a>
-  <a href="#contact" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Contact</a>
+
+<!-- NAVBAR -->
+<nav style="background-color: #333; padding: 1rem; text-align: center;">
+  <a href="#about" style="color: white; margin: 0 15px; text-decoration: none;">About</a>
+  <a href="#projects" style="color: white; margin: 0 15px; text-decoration: none;">Projects</a>
+  <a href="#research" style="color: white; margin: 0 15px; text-decoration: none;">Research Experience</a>
+  <a href="#achievements" style="color: white; margin: 0 15px; text-decoration: none;">Achievements</a>
+  <a href="#problem-solving" style="color: white; margin: 0 15px; text-decoration: none;">Problem Solving</a>
+  <a href="#skills" style="color: white; margin: 0 15px; text-decoration: none;">Skills</a>
+  <a href="#contact" style="color: white; margin: 0 15px; text-decoration: none;">Contact</a>
 </nav>
 
 <!-- DYNAMIC GIF -->
@@ -26,36 +27,17 @@
 </div>
 
 
-
-<script>
-// Smooth scroll functionality for navbar links
-document.querySelectorAll('nav a').forEach(anchor => {
-  anchor.addEventListener('click', function(e) {
-    e.preventDefault();
-    const target = document.querySelector(this.getAttribute('href'));
-    if (target) {
-      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-  });
-});
-</script>
-
-
-
 ---
 
 ### 🌟 **About Me**
-<div id="about">
 - 🔭 Currently working on building robust backend systems using Python and FastAPI.  
 - 🌱 Exploring **LLM-driven solutions** with Azure OpenAI.  
 - 💻 Passionate about solving real-world problems with clean, maintainable code.  
 - 🌐 Active in competitive programming and AI-based development.  
 - 📫 Reach me at: **jamilahmediiuc@gmail.com**  
-</div>
+
 ---
 ### 💻 **Projects**
-
-<div id="projects">
 
 - 🚀 **[HandiCraft](https://github.com/Learnathon-By-Geeky-Solutions/momentum)**  
   - A D2C platform connecting artisans with global customers.  
@@ -91,14 +73,10 @@ document.querySelectorAll('nav a').forEach(anchor => {
   - **Tech Stack:** React, FastAPI, PyTorch, PostgreSQL, Azure, GPT-4, LLM.  
   - **Sponsored by:** [Microsoft Founders Hub](https://www.microsoft.com/startups/founders-hub)  
 
-</div>
+
 ---
 
 ### 🔬 **Research Experience**
-
-<div id="research-experience">
-
-<div id="achievements">
 
 - 🧠 **[HPE-HRNet: Human Pose Estimation using Parallel Architecture](https://github.com/JamilAhmed00/HPE-HRNet)**  
   - Conducted comprehensive research focused on multi-person pose estimation using advanced techniques from **HRNet and OmniPose** architectures.  
@@ -107,7 +85,7 @@ document.querySelectorAll('nav a').forEach(anchor => {
   - Published findings and performance benchmarks through rigorous testing and evaluation.  
   - **Supervised by:** Md. Khaliluzzaman, Assistant Professor, Department of CSE, International Islamic University Chittagong (IIUC).  
   - **Tech Stack:** Python, HRNet, OmniPose, Deep Learning  
-</div>
+
 
 ---
 
@@ -128,11 +106,10 @@ document.querySelectorAll('nav a').forEach(anchor => {
 - 🏆 **BYLC CareerX29 Program Graduate**  
   - Completed leadership training program  
   - [Certificate](https://drive.google.com/file/d/1MG-KfqfPj2nhgX2rgwrgXPVeq-r8EyWr/view)  
-</div>
+
 ---
 
 ### 🧠 **Problem Solving Profiles**
-<div id="problem-solving" align="center">
 <p align="center">
   <a href="https://codeforces.com/profile/Jamil-Ahmed" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" alt="CodeForces" height="50" style="margin: 0 20px;">
@@ -144,7 +121,7 @@ document.querySelectorAll('nav a').forEach(anchor => {
     <img src="https://pbs.twimg.com/profile_images/1518206369660252161/2Q3NLhlp_400x400.jpg" alt="VJudge" height="50" style="margin: 0 20px;">
   </a>
 </p>
-</div>
+
 ---
 ### 🔧 **Skills & Technologies**
 
@@ -196,11 +173,10 @@ document.querySelectorAll('nav a').forEach(anchor => {
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" style="margin-right: 20px;">
 </p>
 
-</div>
+
 ---
 
 ### 🌐 **Connect with Me**
-<div id="contact" align="center">
 <p align="center">
   <a href="https://linkedin.com/in/jamilahmed01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -212,7 +188,7 @@ document.querySelectorAll('nav a').forEach(anchor => {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-</div>
+
 ---
 
 <p align="center">© 2025 Jamil Ahmed. All rights reserved.</p>
