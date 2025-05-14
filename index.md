@@ -25,14 +25,7 @@
   </div>
 </div>
 
-<!-- SECTION PLACEHOLDERS -->
-<section id="about"></section>
-<section id="projects"></section>
-<section id="research-experience"></section>
-<section id="achievements"></section>
-<section id="problem-solving"></section>
-<section id="skills"></section>
-<section id="contact"></section>
+
 
 <script>
 // Smooth scroll functionality for navbar links
