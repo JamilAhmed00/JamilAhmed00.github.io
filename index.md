@@ -1,13 +1,13 @@
 
 <!-- NAVBAR -->
 <nav style="background-color: #333; padding: 1rem; text-align: center;">
-  <a href="#about" style="color: white; margin: 0 15px; text-decoration: none;">About</a>
-  <a href="#projects" style="color: white; margin: 0 15px; text-decoration: none;">Projects</a>
-  <a href="#research" style="color: white; margin: 0 15px; text-decoration: none;">Research Experience</a>
-  <a href="#achievements" style="color: white; margin: 0 15px; text-decoration: none;">Achievements</a>
-  <a href="#problem-solving" style="color: white; margin: 0 15px; text-decoration: none;">Problem Solving</a>
-  <a href="#skills" style="color: white; margin: 0 15px; text-decoration: none;">Skills</a>
-  <a href="#contact" style="color: white; margin: 0 15px; text-decoration: none;">Contact</a>
+  <a href="#-about-me" style="color: white; margin: 0 15px; text-decoration: none;">About</a>
+  <a href="#-projects" style="color: white; margin: 0 15px; text-decoration: none;">Projects</a>
+  <a href="#-research-experience" style="color: white; margin: 0 15px; text-decoration: none;">Research Experience</a>
+  <a href="#-achievements--certifications" style="color: white; margin: 0 15px; text-decoration: none;">Achievements</a>
+  <a href="#-problem-solving-profiles" style="color: white; margin: 0 15px; text-decoration: none;">Problem Solving</a>
+  <a href="#-skills--technologies" style="color: white; margin: 0 15px; text-decoration: none;">Skills</a>
+  <a href="#-connect-with-me" style="color: white; margin: 0 15px; text-decoration: none;">Contact</a>
 </nav>
 
 <!-- DYNAMIC GIF -->
