@@ -14,10 +14,11 @@
   </div>
   <!-- Text on the right -->
   <div>
-    <h1 style="margin: 0;">    Hi, I’m Jamil Ahmed 👋</h1>
-    <h3 style="margin: 0;">🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
+    <h1 style="margin: 0; padding-left: 20px;">Hi, I’m Jamil Ahmed 👋</h1>
+    <h3 style="margin: 0; padding-left: 20px;">🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
   </div>
 </div>
+
 
 
 
@@ -38,24 +39,25 @@
   - Implements **AI-enhanced product search** with synonym expansion and secure payment integration via **SSLCommerz**.  
   - Real-time SMS and email notifications using **SSL Wireless services**.  
   - Optimized backend performance and code quality through **SonarCloud analysis**.  
-  - **Tech Stack:** FastAPI, Cloud, LLM, PostgreSQL, SSLCommerz, Docker, SonarCloud  
+  - **Tech Stack:** FastAPI, Cloud, LLM, PostgreSQL, SSLCommerz, Docker, SonarCloud
+ 
+     
 
 - 🌊 **[HydroScholers](https://github.com/JamilAhmed00/HydroScholers)**  
   - An educational platform that visualizes global water issues using **NASA EONET API**.  
   - Features interactive modules promoting critical thinking about **SDG 6 (Clean Water)**.  
   - Real-time data visualization of floods and droughts with **quizzes and puzzles**.  
-  - **Tech Stack:** HTML, CSS, JavaScript, NASA EONET API  
+  - **Tech Stack:** HTML, CSS, JavaScript, NASA EONET API
+ 
+    
 
 - 📊 **[Automated Sports Data Scraper](https://github.com/JamilAhmed00/Web_Scrap_Field_World_Final_Project)**  
   - Python-based tool for collecting football match data from online sources.  
   - Utilizes libraries like **requests** and **BeautifulSoup** for data extraction.  
   - Stores data in **PostgreSQL** for structured analysis and reporting.  
-  - **Tech Stack:** Python, BeautifulSoup, PostgreSQL  
+  - **Tech Stack:** Python, BeautifulSoup, PostgreSQL
 
-- 🧍 **[HPE-HRNet](https://github.com/JamilAhmed00/HPE-HRNet)**  
-  - Multi-person pose estimation using **HRNet architecture** for accurate human pose detection.  
-  - Advanced multi-person tracking and real-time analytics.  
-  - **Tech Stack:** Python, HRNet, OmniPose  
+    
 
 - ✈️ **[SkillFlight](https://github.com/SkillFlight)**  
   - AI-driven platform for dynamic developer proficiency rating and automated task evaluation.  
