@@ -1,19 +1,18 @@
 <!-- HEADER SECTION -->
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    <img src="https://i.imgur.com/WoSZQkn.png" alt="Jamil Ahmed" width="200" height="200" style="border-radius: 50%; margin-right: 20px;">
+  </div>
+  <div>
+    <h1>Hi, I’m Jamil Ahmed 👋</h1>
+    <h3>🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
+  </div>
+</div>
+
+<!-- DYNAMIC GIF -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3NDNhZ3VrbG9mYmxrZnpqZ2pjeHF6d2ZwZWZtdWkxOGJpdGJlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Dynamic GIF" width="600" height="400">
 </p>
-
----
-<!-- HEADER SECTION -->
-<!-- HEADER SECTION -->
-<div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/WoSZQkn.jpeg" alt="Jamil Ahmed" width="200" height="250" style="border-radius: 50%; margin-right: 20px;">
-  <h1>Hi, I’m Jamil Ahmed 👋</h1>
-</div>
-
-
-
-<h3 align="center">🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
 
 ---
 
@@ -25,6 +24,7 @@
 - 📫 Reach me at: **jamilahmed.dev@gmail.com**  
 
 ---
+
 ### 💻 **Projects**
 | Project                          | Description                                                                                         | Technologies                                 | Links                                                                 |
 | -------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------- |
@@ -36,12 +36,12 @@
 ---
 
 ### 🏆 **Achievements & Certifications**
-| Achievement/Certification                    | Details                                              | Links |
-| --------------------------------------------- | ---------------------------------------------------- | ----- |
+| Achievement/Certification                    | Details                                              | Links                                                                                              |
+| --------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 🌍 **NASA Space Apps Challenge 2024**          | National Champion, Global Nominee                     | [National Certificate](https://drive.google.com/file/d/1tk6vuUjEhNkBsiYMF0BrkzaW-44yJBOp/view) \| [Global Certificate](https://drive.google.com/file/d/YourGlobalCertificateID/view) |
-| 💡 **Generative AI for Educators - Google**     | Certified in applying AI in educational contexts       | [Certificate](https://skillshop.exceedlms.com/student/award/oLFsgqBxh4EbjM1n1CtMuy63) |
-| 🏅 **Microsoft Imagine Cup 2025**               | MVP Submission Round                                  | [Certificate](https://drive.google.com/file/d/170acx6TKK-Ara6ewaJgwTKYSGLekij1k/view) |
-| 🏆 **BYLC CareerX29 Program Graduate**          | Completed leadership training program                  | [Certificate](https://drive.google.com/file/d/1MG-KfqfPj2nhgX2rgwrgXPVeq-r8EyWr/view) |
+| 💡 **Generative AI for Educators - Google**     | Certified in applying AI in educational contexts       | [Certificate](https://skillshop.exceedlms.com/student/award/oLFsgqBxh4EbjM1n1CtMuy63)               |
+| 🏅 **Microsoft Imagine Cup 2025**               | MVP Submission Round                                  | [Certificate](https://drive.google.com/file/d/170acx6TKK-Ara6ewaJgwTKYSGLekij1k/view)               |
+| 🏆 **BYLC CareerX29 Program Graduate**          | Completed leadership training program                  | [Certificate](https://drive.google.com/file/d/1MG-KfqfPj2nhgX2rgwrgXPVeq-r8EyWr/view)               |
 
 ---
 
@@ -63,21 +63,17 @@
 ### 🔧 **Skills & Technologies**
 #### **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 #### **Web Development:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 
 #### **AI & ML:**  
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 #### **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **CI/CD & Version Control:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
 
