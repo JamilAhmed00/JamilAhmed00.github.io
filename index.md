@@ -1,5 +1,4 @@
-<!-- Set background color to black -->
-<div style="background-color: #000000; color: white;">
+
 <!-- DYNAMIC GIF -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3NDNhZ3VrbG9mYmxrZnpqZ2pjeHF6d2ZwZWZtdWkxOGJpdGJlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Dynamic GIF" width="600" height="400">
@@ -164,5 +163,5 @@
 <p align="center">© 2025 Jamil Ahmed. All rights reserved.</p>
 
 
-</div> <!-- End of background div -->
+
 
