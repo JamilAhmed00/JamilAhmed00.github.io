@@ -191,8 +191,7 @@
 
 ---
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dlMcB7SYNAt9zfkBL0Dc_mk2d2D7P7jLriHVActhQCc"></script>
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dlMcB7SYNAt9zfkBL0Dc_mk2d2D7P7jLriHVActhQCc&cl=ffffff&w=a"></script>
 ---
 
 <p align="center">© 2025 Jamil Ahmed. All rights reserved.</p>
