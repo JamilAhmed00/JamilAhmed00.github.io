@@ -25,14 +25,13 @@
 - 📫 Reach me at: **jamilahmed.dev@gmail.com**  
 
 ---
-
 ### 💻 **Projects**
-| Project                         | Description                                                                                         | Technologies                                 | Links |
-| ------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | ----- |
-| **HandiCraft**                  | D2C platform connecting artisans with customers. AI-enhanced search and secure payment integration.   | FastAPI, PostgreSQL, SSLCommerz                | [GitHub](https://github.com/JamilAhmed00/HandiCraft) |
-| **HydroScholars**               | Educational platform visualizing water issues with NASA EONET API and interactive learning modules.   | HTML, CSS, JavaScript, NASA EONET API          | [GitHub](https://github.com/JamilAhmed00/HydroScholers) |
-| **Automated Sports Data Scraper**| Python-based scraper for football data with structured storage in PostgreSQL.                        | Python, BeautifulSoup, PostgreSQL              | [GitHub](https://github.com/JamilAhmed00/Web_Scrap_Field_World_Final_Project) |
-| **HPE-HRNet**                   | Multi-person pose estimation using HRNet architecture.                                               | Python, HRNet, OmniPose                       | [GitHub](https://github.com/JamilAhmed00/HPE-HRNet) |
+| Project                          | Description                                                                                         | Technologies                                 | Links                                                                 |
+| -------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------- |
+| **HandiCraft**                   | D2C platform connecting artisans with customers. AI-enhanced search and secure payment integration.   | FastAPI, PostgreSQL, SSLCommerz                | [GitHub](https://github.com/JamilAhmed00/HandiCraft)                   |
+| **HydroScholers**                | Educational platform visualizing water issues with NASA EONET API and interactive learning modules.   | HTML, CSS, JavaScript, NASA EONET API          | [GitHub](https://github.com/JamilAhmed00/HydroScholers)                |
+| **Automated Sports Data Scraper** | Python-based scraper for football data with structured storage in PostgreSQL.                        | Python, BeautifulSoup, PostgreSQL              | [GitHub](https://github.com/JamilAhmed00/Web_Scrap_Field_World_Final_Project) |
+| **HPE-HRNet**                    | Multi-person pose estimation using HRNet architecture.                                               | Python, HRNet, OmniPose                       | [GitHub](https://github.com/JamilAhmed00/HPE-HRNet)                    |
 
 ---
 
