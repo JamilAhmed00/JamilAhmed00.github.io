@@ -1,12 +1,12 @@
 <!-- NAVBAR SECTION -->
 <nav style="display: flex; justify-content: center; background-color: #f4f4f4; padding: 15px; position: sticky; top: 0; z-index: 1000;">
-  <a href="#about" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">About</a>
-  <a href="#projects" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Projects</a>
-  <a href="#research" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Research Experience</a>
-  <a href="#achievements" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Achievements</a>
-  <a href="#problem-solving" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Problem Solving</a>
-  <a href="#skills" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Skills</a>
-  <a href="#contact" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Contact</a>
+  <a href="#About Me" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">About</a>
+  <a href="#Projects" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Projects</a>
+  <a href="#Research Experience" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Research Experience</a>
+  <a href="#Achievements & Certifications" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Achievements</a>
+  <a href="#Problem Solving Profiles" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Problem Solving</a>
+  <a href="#Skills & Technologies" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Skills</a>
+  <a href="#Connect with Me" style="margin: 0 20px; text-decoration: none; font-size: 18px; color: #333;">Contact</a>
 </nav>
 
 <!-- DYNAMIC GIF -->
