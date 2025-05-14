@@ -1,25 +1,30 @@
 
+<!-- NAVBAR -->
+<nav style="background-color: #333; padding: 1rem; text-align: center;">
+  <a href="#about" style="color: white; margin: 0 15px; text-decoration: none;">About</a>
+  <a href="#projects" style="color: white; margin: 0 15px; text-decoration: none;">Projects</a>
+  <a href="#research" style="color: white; margin: 0 15px; text-decoration: none;">Research Experience</a>
+  <a href="#achievements" style="color: white; margin: 0 15px; text-decoration: none;">Achievements</a>
+  <a href="#problem-solving" style="color: white; margin: 0 15px; text-decoration: none;">Problem Solving</a>
+  <a href="#skills" style="color: white; margin: 0 15px; text-decoration: none;">Skills</a>
+  <a href="#contact" style="color: white; margin: 0 15px; text-decoration: none;">Contact</a>
+</nav>
+
 <!-- DYNAMIC GIF -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3NDNhZ3VrbG9mYmxrZnpqZ2pjeHF6d2ZwZWZtdWkxOGJpdGJlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Dynamic GIF" width="600" height="400">
 </p>
 
----
----
 <!-- HEADER SECTION -->
 <div style="display: flex; align-items: center; justify-content: left; margin: 20px;">
-  <!-- Photo on the left -->
   <div>
     <img src="https://i.imgur.com/WoSZQkn.png" alt="Jamil Ahmed" width="220" height="250" style="border-radius: 50%; margin-right: 20px;">
   </div>
-  <!-- Text on the right -->
   <div>
     <h1 style="margin: 0; padding-left: 20px;">Hi, I’m Jamil Ahmed 👋</h1>
     <h3 style="margin: 0; padding-left: 20px;">🚀 Backend Developer | 💡 AI Enthusiast | 🌍 Problem Solver</h3>
   </div>
 </div>
-
-
 
 
 ---
@@ -34,7 +39,7 @@
 ---
 ### 💻 **Projects**
 
-- 🚀 **[HandiCraft](https://github.com/JamilAhmed00/HandiCraft)**  
+- 🚀 **[HandiCraft](https://github.com/Learnathon-By-Geeky-Solutions/momentum)**  
   - A D2C platform connecting artisans with global customers.  
   - Implements **AI-enhanced product search** with synonym expansion and secure payment integration via **SSLCommerz**.  
   - Real-time SMS and email notifications using **SSL Wireless services**.  
