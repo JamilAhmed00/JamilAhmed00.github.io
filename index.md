@@ -7,7 +7,7 @@
 <!-- HEADER SECTION -->
 <!-- HEADER SECTION -->
 <div style="display: flex; align-items: center;">
-  <img src="https://drive.google.com/uc?export=view&id=11Xp6CxLbLJ3bvCQVonuJ7qdmSSVcNqvT" alt="Jamil Ahmed" width="200" height="250" style="border-radius: 50%; margin-right: 20px;">
+  <img src="https://i.imgur.com/WoSZQkn.jpeg" alt="Jamil Ahmed" width="200" height="250" style="border-radius: 50%; margin-right: 20px;">
   <h1>Hi, I’m Jamil Ahmed 👋</h1>
 </div>
 
@@ -39,7 +39,7 @@
 ### 🏆 **Achievements & Certifications**
 | Achievement/Certification                    | Details                                              | Links |
 | --------------------------------------------- | ---------------------------------------------------- | ----- |
-| 🌍 **NASA Space Apps Challenge 2024**          | National Champion, Global Nominee                     | [Certificate](https://drive.google.com/file/d/1tk6vuUjEhNkBsiYMF0BrkzaW-44yJBOp/view) |
+| 🌍 **NASA Space Apps Challenge 2024**          | National Champion, Global Nominee                     | [National Certificate](https://drive.google.com/file/d/1tk6vuUjEhNkBsiYMF0BrkzaW-44yJBOp/view) \| [Global Certificate](https://drive.google.com/file/d/YourGlobalCertificateID/view) |
 | 💡 **Generative AI for Educators - Google**     | Certified in applying AI in educational contexts       | [Certificate](https://skillshop.exceedlms.com/student/award/oLFsgqBxh4EbjM1n1CtMuy63) |
 | 🏅 **Microsoft Imagine Cup 2025**               | MVP Submission Round                                  | [Certificate](https://drive.google.com/file/d/170acx6TKK-Ara6ewaJgwTKYSGLekij1k/view) |
 | 🏆 **BYLC CareerX29 Program Graduate**          | Completed leadership training program                  | [Certificate](https://drive.google.com/file/d/1MG-KfqfPj2nhgX2rgwrgXPVeq-r8EyWr/view) |
